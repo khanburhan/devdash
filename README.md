@@ -4,7 +4,7 @@ A modern, responsive portfolio website to showcase my skills, projects, and expe
 
 ## 🚀 Live Demo
 
-[🔗 View My Portfolio](https://your-username.github.io/developer-portfolio)
+[🔗 View My Portfolio](https://khanburhan.github.io/devdash)
 
 ## ✨ Features
 
@@ -23,8 +23,8 @@ A modern, responsive portfolio website to showcase my skills, projects, and expe
 
 ## 📷 Screenshots
 
-| Light Mode | Dark Mode |
-|------------|-----------|
+| Light Mode                      | Dark Mode                     |
+| ------------------------------- | ----------------------------- |
 | ![Light](screenshots/light.png) | ![Dark](screenshots/dark.png) |
 
 ## 📬 Contact
